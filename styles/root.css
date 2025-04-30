@@ -1,0 +1,17 @@
+
+
+:root {
+    --cor-1: #5d4fff;
+    --cor-2: #181443;
+    --cor-3: #f2f1fe;
+    
+
+    --font-1: "Plus Jakarta Sans", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+  }
